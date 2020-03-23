@@ -1,0 +1,7 @@
+ticketPrice numberOfTicketsSold
+ 250.00            25000.00
+ 100.00           200000.00
+  50.00                0.00
+  25.00                0.00
+
+total: 225000.00
