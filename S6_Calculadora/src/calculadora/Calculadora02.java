@@ -1,8 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package calculadora;
 
 import com.sun.java.swing.plaf.windows.WindowsLookAndFeel;
@@ -23,10 +18,6 @@ import javax.swing.UIManager;
 import javax.swing.UnsupportedLookAndFeelException;
 import javax.swing.border.EmptyBorder;
 
-/**
- *
- * @author enrique
- */
 public class Calculadora02 {
 
     // Definir los componentes en la clase
