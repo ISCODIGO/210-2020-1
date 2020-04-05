@@ -13,7 +13,7 @@ import java.util.logging.Logger;
 
 public class LeerArchivo {
     public static void main(String[] args) {
-        String ruta = "c:\\UNAH\\2020-01\\IS210\\archivo.dat";
+        String ruta = "archivo.dat";
         int total = 0;
 
         try {
