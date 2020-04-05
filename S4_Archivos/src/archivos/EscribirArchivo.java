@@ -19,7 +19,7 @@ public class EscribirArchivo {
     public static void main(String[] args) {
         PrintWriter pw = null;
         try {
-            String ruta = "C:\\UNAH\\2020-01\\IS210\\prueba.txt";
+            String ruta = "prueba.txt";
             pw = new PrintWriter(ruta);
             
             for (int i = 1; i <= 1000; i++) {
